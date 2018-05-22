@@ -1,0 +1,2 @@
+# CGVMiniproject
+Opengl clock
